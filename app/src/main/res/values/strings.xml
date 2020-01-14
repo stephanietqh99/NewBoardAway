@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Board Away!</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="profilePic">Profile Picture</string>
+    <string name="title_feeds">Feeds</string>
+    <string name="title_notification">Notification</string>
+    <string name="title_me">Me</string>
+    <string name="titleEvent">title</string>
+    <string name="email">Email</string>
+    <string name="bored_away">Bored Away!!</string>
+    <string name="password">Password</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="click_here_to_login">Click Here to Login</string>
+    <string name="desc">desc</string>
+    <string name="venuedetails">venueDetails</string>
+    <string name="datetime">dateTime</string>
+    <string name="join_event">Join Event</string>
+    <string name="give_me_one_good_reason_why_you_should_give_up_my_limited_spare_time_to_come_to_any_event_while_you_re_at_it_give_me_a_few_good_reasons_what_you_waiting_for_let_s_join_us">Give me one good reason why you should give up my limited spare time to come to any event! While you’re at it, give me a few good reasons. What you waiting for let\'s join us!.</string>
+    <string name="view_event">view event</string>
+    <string name="not_verified_click_to_verify">Not Verified (Click to Verify)</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="change_password">Change Password</string>
+    <string name="save_changes">Save Changes</string>
+</resources>
